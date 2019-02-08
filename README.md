@@ -7,3 +7,6 @@ GitHub = 1;
 if Github==1
   printf('Correct')
 end
+
+%% Plotting
+plot(Github,y-axis,'nice')
